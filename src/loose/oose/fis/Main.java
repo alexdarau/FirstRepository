@@ -28,7 +28,7 @@ public class Main {
 
         Procesor c1 = new ProcesorCautare("text1");
         Procesor c2 = new ProcesorCautare("text3");
-        Procesor c3 = new ProcesorCautare("text2");
+        Procesor c3 = new ProcesorCautare("text4");
 
         ProcesorCompus pc1 = new ProcesorCompus();
         pc1.adaugaProcesor(c1);
